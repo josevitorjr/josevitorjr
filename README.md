@@ -1,5 +1,5 @@
 # 💫 About Me:
-Highly-skilled and motivated senior software engineer with 5 years of experience.<br>Enhanced performance of 24 micro-services using Javascript and Typescript.
+Highly-skilled and motivated software engineer with 5 years of experience.<br>Enhanced performance of 24 micro-services using Javascript and Typescript.
 
 
 ## 🌐 Socials:
